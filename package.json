@@ -1,0 +1,22 @@
+{
+  "name": "javascriptbasico",
+  "version": "1.0.0",
+  "description": "Bases de JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yarreaza/javascriptBasico.git"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Yelitza Arreaza <arreazay@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yarreaza/javascriptBasico/issues"
+  },
+  "homepage": "https://github.com/yarreaza/javascriptBasico#readme"
+}
